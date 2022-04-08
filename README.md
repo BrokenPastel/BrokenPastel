@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrokenPastel
+- 👋 Hi, I’m Pedro
 - 👀 I’m interested in train my abilities
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on simple projects (not high-end)
